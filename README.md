@@ -71,9 +71,6 @@ HabitSync is a modern, full-stack productivity and wellness web application buil
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[MIT](LICENSE)
-
 ---
 
 **Made with ❤️ by Abdul Ahad Serfraz**
